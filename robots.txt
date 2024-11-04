@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucufaaja.github.io/EWp/sitemap_index.txt
+Sitemap: https://ucufaaja.github.io/KmC/sitemap_index.txt
+Sitemap: https://ucufaaja.github.io/hdR/sitemap_index.txt
+Sitemap: https://ucufaaja.github.io/hoZ/sitemap_index.txt
